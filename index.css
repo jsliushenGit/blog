@@ -43,6 +43,6 @@ html, body {
 	cursor: pointer;
 }
 .url:hover {
-	background-color: rgba(255, 255, 255, 1);
+	background-color: rgba(255, 255, 255, .9);
 	color: #000000;
 }
